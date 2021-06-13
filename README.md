@@ -7,9 +7,9 @@
 (+ [**compose without volumes**](https://github.com/rsaldano/devops-tools-integration/tree/2.1.compose-novolume) )
 1. [**+ rabbitmq service**](https://github.com/rsaldano/devops-tools-integration/tree/3.rabbitmq)
 1. [**+ redis cache**](https://github.com/rsaldano/devops-tools-integration/tree/4.redis)
-1. [**kubernetes/helm**](https://github.com/rsaldano/devops-helm)
-1. pipeline (gitlab) - **WIP**
+1. [**kubernetes/helm**](https://gitlab.com/kube-app-test/app-src-cd)
 1. CD - argo/flux
+1. [**CI - gitlab**](https://gitlab.com/kube-app-test/app-src-ci)
 1. logging (elastic)
 1. metrics (prometheus)
 1. IaC Kube (terraform)
