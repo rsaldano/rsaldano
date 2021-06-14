@@ -10,6 +10,7 @@
 1. [**kubernetes/helm**](https://gitlab.com/kube-app-test/app-src-cd)
 1. CD - argo/flux
 1. [**CI - gitlab**](https://gitlab.com/kube-app-test/app-src-ci)
+1. **CD -** [**flux**](https://gitlab.com/kube-app-test/app-src-cd/-/tree/flux) | **argo**
 1. logging (elastic)
 1. metrics (prometheus)
 1. IaC Kube (terraform)
